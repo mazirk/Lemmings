@@ -1,0 +1,12 @@
+Le répertoire 'texte' contient :
+
+
+
+- Une classe outils.Outils regroupant une méthode statique permettant
+ d'être informé que des données ont été saisies sans bloquer le programme et une méthode pause. Cette classe est documentée.
+
+
+- Une classe Niveau montrant comment se servir de la lecture non bloquante et illustrant ce à quoi peut correspondre un jeu de mulot.
+
+
+
